@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DBJdwJAXdwGk2cXl69TDgU96DP6MP1a/1xz3JYPcCpcdTRIf1omJQNSXKa81R93ZZWe6QytdQf2LViAUY9YOHA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\web\\bailab1\\bailab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ktcop\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ktcop\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ktcop\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\ktcop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
